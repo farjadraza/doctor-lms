@@ -1,0 +1,76 @@
+body{
+    background-image: url(blur.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.set
+{
+    min-width: 350px;
+    background-color: rgba(0,0,0,.7);
+    padding: 8% 15% 10% 4%;
+    color: white;
+}
+
+hr.new{
+    border: 2px solid #2979ff ;
+}
+
+.cont form input
+{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    border-bottom: 2px solid #2979ff;
+}
+
+.but{
+    margin: 5% 35% 10% 45%;
+}
+
+.nam{
+    width: 100%;
+}
+
+.help-block{
+    font-size:12px    
+    padding: 5px
+    
+}
+ 
+.help-block a:link{
+    color: #fff;
+}
+
+.bottom{
+    background-color: white;
+    border-top:0 none;
+    padding: 9% 
+    
+}
+.heading
+{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer
+{
+    background-color: rgba(0,0,0,1.0);
+    color: white;
+    text-align: center;
+    padding: 5% 1% 
+    font: size 50;
+    position:fixed;
+   left:0px;
+   bottom:0px;
+   height:10%;
+   width:100%;
+    
+}
+
+.nav-button
+{
+    float: right;
+    
+}
